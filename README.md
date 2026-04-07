@@ -2,7 +2,6 @@
 Information about this profile.
 
 # whats coming out
- Tools-Hub - 70+ useful everyday tools that you can use for free.
  
  Creator-Studio - a few tools for complex editing like video editor, music editor and more media editors.
 
@@ -10,7 +9,13 @@ Information about this profile.
 
  webOS- a OS in the web with AI intergration that you can use combined with apps from tools hub, creator studio and much, much more.
 
+ # New realeases 
+
+ Tools-Hub - 70+ useful everyday tools that you can use for free.
+
  # Coolest projects
+ 
+ Tools-Hub - 70+ useful everyday tools that you can use for free.
 
  AI chatbot - a free ai chatbot completely without api keys run in just 5 files. Using a free api called pollinations.ai
 
