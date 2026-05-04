@@ -7,9 +7,12 @@ Information about this profile.
 
  AI-Studio - as a part of orbix AI chatbot, it is an ai image, code, video, music, 3d and more generations through AI.
 
- webOS- a OS in the web with AI intergration that you can use combined with apps from tools hub, creator studio and much, much more.
+ Game engine - a completely working game engine very similar to Unity and very complex. NOTE: this will take a long time, more than a year. (Unity has millions of developers and it still took them 10 years to build)
+
 
  # New realeases 
+
+ webOS- a OS in the web with AI intergration that you can use combined with apps from tools hub, creator studio and much, much more.
 
  Tools-Hub - 70+ useful everyday tools that you can use for free.
 
@@ -17,8 +20,8 @@ Information about this profile.
  
  Tools-Hub - 70+ useful everyday tools that you can use for free.
 
- AI chatbot - a free ai chatbot completely without api keys run in just 5 files. Using a free api called pollinations.ai
-
+ webOS- a OS in the web with AI intergration that you can use combined with apps from tools hub, creator studio and much, much more.
+ 
  handwriting recognize- Take a picture of you handwriting and convert it into a font.
 
 
