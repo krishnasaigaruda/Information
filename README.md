@@ -12,6 +12,8 @@ Information about this profile.
 
  # New realeases 
 
+ Courses - Learn a lagugae hands on or through books
+ 
  webOS- a OS in the web with AI intergration that you can use combined with apps from tools hub, creator studio and much, much more.
 
  Tools-Hub - 70+ useful everyday tools that you can use for free.
