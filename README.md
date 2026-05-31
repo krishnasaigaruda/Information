@@ -40,7 +40,7 @@ Information about this profile.
 
 # can you reuse my code to realease in you own github
 
-Yes
+Yes jsut give credit and you msut modify or put part of a project. Otherwise NO.
 
 
 ## Do i use libraries
