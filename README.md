@@ -11,12 +11,13 @@ Information about this profile.
 
 
  # New realeases 
-
+ 
+ Karioke - Upload any music file to get the lyrics and sing along
+ 
  Courses - Learn a lagugae hands on or through books
  
  webOS- a OS in the web with AI intergration that you can use combined with apps from tools hub, creator studio and much, much more.
 
- Tools-Hub - 70+ useful everyday tools that you can use for free.
 
  # Coolest projects
  
@@ -25,6 +26,8 @@ Information about this profile.
  webOS- a OS in the web with AI intergration that you can use combined with apps from tools hub, creator studio and much, much more.
  
  handwriting recognize- Take a picture of you handwriting and convert it into a font.
+
+ Karioke - Upload any music file to get the lyrics and sing along
 
 
  # Can you use my code
