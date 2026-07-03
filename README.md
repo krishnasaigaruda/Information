@@ -1,11 +1,23 @@
 # Information
 Information about this profile.
 
+# About AI studio
+Ai studio is a all ai in 1 platform, with custom build ai models. 
+For 3d models, it uses a mix of orbix polyprint and orbix dream.
+For images, it will use orbix dream.
+for videos, it will use orbix visualplay.
+For text, code and more, it will use Openai, Chatgpt(fast).
+For music, and sound effects, it will use orbix Beat.
+For TTS, it will use Orbix voice.
+For animations, it will use orbix move.
+For world, it will use orbix worlds, or YUMI.
+For 3d model textures, it will use a combination of orbix dream, and polyprint. 
+
 # whats coming out
  
  Creator-Studio - a few tools for complex editing like video editor, music editor and more media editors.
 
- AI-Studio - as a part of orbix AI chatbot, it is an ai image, code, video, music, 3d and more generations through AI.
+ AI-Studio - as a part of orbix AI chatbot, it is an ai image, code, video, music, 3d and more generations through my own AI models.
 
  Game engine - a completely working game engine very similar to Unity and very complex. NOTE: this will take a long time, more than a year. (Unity has millions of developers and it still took them 10 years to build)
 
