@@ -13,6 +13,13 @@ For animations, it will use orbix move.
 For world, it will use orbix worlds, or YUMI.
 For 3d model textures, it will use a combination of orbix dream, and polyprint. 
 
+I might create my own free llm with switchable to chatgpt.
+
+I also created the ai 3d model generator aldready image to 3d.
+I am working on the text to image to 3d pipeline. 
+It currently used facebook models for images which will soon be replaced with dream
+
+
 # whats coming out
  
  Creator-Studio - a few tools for complex editing like video editor, music editor and more media editors.
