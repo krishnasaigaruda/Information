@@ -13,7 +13,7 @@ For animations, it will use orbix move.
 For world, it will use orbix worlds, or YUMI.
 For 3d model textures, it will use a combination of orbix dream, and polyprint. 
 
-I might create my own free llm with switchable to chatgpt.
+I might create my own free llm with switchable to chatgpt or kimi.
 
 I also created the ai 3d model generator aldready image to 3d.
 I am working on the text to image to 3d pipeline. 
@@ -25,6 +25,8 @@ It currently used facebook models for images which will soon be replaced with dr
  Creator-Studio - a few tools for complex editing like video editor, music editor and more media editors.
 
  AI-Studio - as a part of orbix AI chatbot, it is an ai image, code, video, music, 3d and more generations through my own AI models.
+
+ Minecraft add-on creator - a completely end to end addon creator for minecraft bedrock and java. It is like blockbench(3d app for minecraft) and bridge (code editor for minecraft) combined.
 
  Game engine - a completely working game engine very similar to Unity and very complex. NOTE: this will take a long time, more than a year. (Unity has millions of developers and it still took them 10 years to build)
 
