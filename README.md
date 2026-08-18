@@ -10,7 +10,7 @@ For text, code and more, it will use Openai, Chatgpt(fast).
 For music, and sound effects, it will use orbix Beat.
 For TTS, it will use Orbix voice.
 For animations, it will use orbix move.
-For world, it will use orbix worlds, or YUMI.
+For world, it will use orbix worlds, or YUME(world generation).
 For 3d model textures, it will use a combination of orbix dream, and polyprint. 
 
 I might create my own free llm with switchable to chatgpt or kimi.
