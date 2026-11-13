@@ -26,29 +26,20 @@ It currently used facebook models for images which will soon be replaced with dr
 
  AI-Studio - as a part of orbix AI chatbot, it is an ai image, code, video, music, 3d and more generations through my own AI models.
 
- Minecraft add-on creator - a completely end to end addon creator for minecraft bedrock and java. It is like blockbench(3d app for minecraft) and bridge (code editor for minecraft) combined.
-
- Game engine - a completely working game engine very similar to Unity and very complex. NOTE: this will take a long time, more than a year. (Unity has millions of developers and it still took them 10 years to build)
+ 
 
 
  # New realeases 
- 
- Karioke - Upload any music file to get the lyrics and sing along
- 
- Courses - Learn a lagugae hands on or through books
- 
- webOS- a OS in the web with AI intergration that you can use combined with apps from tools hub, creator studio and much, much more.
-
+ block party
+ stormfall
+ Website orbixstuidio.dev 
 
  # Coolest projects
  
  Tools-Hub - 70+ useful everyday tools that you can use for free.
 
  webOS- a OS in the web with AI intergration that you can use combined with apps from tools hub, creator studio and much, much more.
- 
- handwriting recognize- Take a picture of you handwriting and convert it into a font.
-
- Karioke - Upload any music file to get the lyrics and sing along
+ easygameengine -  a working game engine in the web.
 
 
  # Can you use my code
